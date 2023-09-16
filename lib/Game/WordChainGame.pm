@@ -118,7 +118,7 @@ __END__
 
 =head1 NAME
 
-Game::WordChainGame - A game where players form a word chain based on last letter
+Game::WordChainGame - A game where players form a word chain based on last letter of previous player.
 
 =head1 VERSION
 
@@ -268,7 +268,7 @@ Rohit R Manjrekar, C<< <manjrekarrohit76@gmail.com> >>
 
 =head1 REPOSITORY
 
-L<https://github.com/rmanjrekar/Webservice>
+L<https://github.com/rmanjrekar/Games>
 
 =head1 LICENSE AND COPYRIGHT
 
